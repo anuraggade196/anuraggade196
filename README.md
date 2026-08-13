@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Gade</h1>
-<h3 align="center">A passionate WEB DEVELOPEMENT from India</h3>
+
 
 
 
